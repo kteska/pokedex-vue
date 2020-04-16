@@ -7,7 +7,7 @@ będzie zawierała podstawowe informacje o każdym z nich, korzystając z PokeAP
 
 ## Uruchomienie aplikacji
 
-Po pobraniu należy przejść do folderu, gdzie znajdują się pobrane pliki. Aplikację należy uruchomić komendą ```npm start``` (która również uruchamia ```npm install```), a następnie otworzyć aplikację w przeglądarce na jednym z podanych adresów (np. http://localhost:8080/).
+Po pobraniu należy przejść do folderu, gdzie znajdują się pobrane pliki (pokedex lub pokedex-master). Aplikację należy uruchomić komendą ```npm start``` (która również uruchamia ```npm install```), a następnie otworzyć aplikację w przeglądarce na jednym z podanych adresów (np. http://localhost:8080/).
 
 ## Wykorzystane technologie w projekcie
 
