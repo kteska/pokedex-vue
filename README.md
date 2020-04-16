@@ -52,5 +52,5 @@ Do zdjęć Pokemonów na kartach wykorzystałam zdjęcia
 z [https://pokeres.bastionbot.org](url) Pokemon (Pokeres) API. Natomiast w oknach 
 dialogowych zdjęcia są pobierane z PokeAPI. Uznałam, że na kartach będą zdjęcia
 w lepszej jakości. Konsekwencją tego może być dłuższe ich ładowanie na stronie.
-
+Aplikacja nie sprawdza czy pod danym adresem znajduje się zdjęcie.
 
