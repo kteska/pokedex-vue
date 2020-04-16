@@ -7,7 +7,7 @@ będzie zawierała podstawowe informacje o każdym z nich, korzystając z PokeAP
 
 ## Uruchomienie aplikacji
 
-Po pobraniu należy przejść do folderu, gdzie znajdują się pobrane pliki. Aplikację należy uruchomić komendą ```npm start```, a następnie otworzyć ją w przeglądarce na jednym z podanych adresów (local lub network).
+Po pobraniu należy przejść do folderu, gdzie znajdują się pobrane pliki. W terminalu wpisać komendę ```npm install```. Aplikację należy uruchomić komendą ```npm start```, a następnie otworzyć ją w przeglądarce na jednym z podanych adresów (local lub network).
 
 ## Wykorzystane technologie w projekcie
 
@@ -33,14 +33,14 @@ przewijania listy.
 Na stronie głównej znajduje się również pole do wpisania nazwy szukanego 
 Pokemona - ```Search by name```. Wyszukiwanie działa w taki sposób, że dokładnie porównuje 
 wpisaną nazwę, niezależnie od wielkości znaków. Po wpisaniu nazwy i wciśnięciu lupki lub 
-klawisza ’enter`, lista jest przewijana na stronę, gdzie znajduje się 
+klawisza ```enter```, lista jest przewijana na stronę, gdzie znajduje się 
 szukany Pokemon i wyświetla się okno dialogowe z informacjami o nim.
 Po zamknięciu okna dialogowego przyciskiem ```Choose me```, można z tego miejsca dalej poruszać 
 się po liście. 
 
 
 Po wciśnięciu przycisku ```Types Filter``` możliwe jest filtrowanie listy po 
-typach Pokemonów. Dostępne typy Pokemonów to ’electric’, ’grass’, ’fire’, 
+typach Pokemonów. Dostępne typy Pokemonów to electric, grass, fire, 
 ’water’. Po wybraniu filtra wyświetlają się karty z pokemonami wybranego typu. 
 Tak samo jak stronie głównej dostępne są funkcjonalności: wyświetlenie nazwy 
 po najechaniu myszką na kartę i wyświetlenie okna dialogowego z informacjami
