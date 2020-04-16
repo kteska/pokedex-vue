@@ -5,7 +5,7 @@
         <v-col cols="8">
           <v-container class="max-width">
             <v-btn :disabled="disabled" @click="previous" icon color="error" width="40"><v-icon size="40" class="white">mdi-arrow-left-circle</v-icon></v-btn>
-            
+
             <v-btn @click="next" icon color="error" width="40"><v-icon size="40" class="white">mdi-arrow-right-circle</v-icon></v-btn>
           </v-container>
         </v-col>

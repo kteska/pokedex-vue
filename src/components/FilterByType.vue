@@ -42,10 +42,10 @@
             <v-row>Height: {{ this.pokemon_height / 10 }} m</v-row>
             <v-row>Weight: {{ this.pokemon_weight / 10 }} kg</v-row>
             <div id="abilities">
-            Abilities
-            <v-row
-              ><v-chip class="ma-2" color="amber accent-4" v-for="ability in this.pokemon_abilities" :key="ability"> {{ ability }} </v-chip></v-row
-            >
+              Abilities
+              <v-row
+                ><v-chip class="ma-2" color="amber accent-4" v-for="ability in this.pokemon_abilities" :key="ability"> {{ ability }} </v-chip></v-row
+              >
             </div>
           </v-card-text>
           <v-card-actions>
