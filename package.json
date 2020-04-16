@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "format": "prettier --print-width 200 --write '{src,test}/**/*.vue'",
-    "start": "vue-cli-service serve",
+    "start": "npm install && vue-cli-service serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
