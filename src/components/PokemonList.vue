@@ -2,7 +2,7 @@
   <v-container>
     <v-alert dense outlined color="white" icon="mdi-emoticon-confused-outline" :value="alertValue" width="300"> There is no such <strong>Pokemon</strong>! </v-alert>
 
-    <!-- Search component and filtr button -->
+    <!-- Search component and filter button -->
     <div id="search">
       <v-btn color="error" class="elevation-10">Pokedex List</v-btn>
       <v-text-field
