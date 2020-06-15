@@ -1,5 +1,7 @@
 # Pokedex by Katarzyna Teska
 
+Strona dostępna pod adresem: [https://pokedex-kat.netlify.app/#/](url)
+
 ## Opis zadania
 
 Zadanie polegało na przygotowaniu Pokedexa, czyli listy Pokemonów, która 
