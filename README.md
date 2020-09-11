@@ -1,6 +1,6 @@
 # Pokedex by Katarzyna Teska
 
-Strona dostępna pod adresem: [https://pokedex-kat.netlify.app/#/](url)
+Strona dostępna pod adresem: https://pokedex-kat.netlify.app/#/
 
 ## Opis zadania
 
