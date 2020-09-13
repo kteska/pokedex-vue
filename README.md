@@ -1,11 +1,15 @@
 # Pokedex by Katarzyna Teska
 
+![Zrzut ekranu 2020-09-13 o 7 41 44 PM](https://user-images.githubusercontent.com/63778196/93024777-28e54f80-f5f9-11ea-836f-e037d444f43a.png)
+
 Strona dostępna pod adresem: https://pokedex-kat.netlify.app/#/
 
 ## Opis zadania
 
 Zadanie polegało na przygotowaniu Pokedexa, czyli listy Pokemonów, która 
 będzie zawierała podstawowe informacje o każdym z nich, korzystając z PokeAPI.
+
+![Zrzut ekranu 2020-09-13 o 7 42 06 PM](https://user-images.githubusercontent.com/63778196/93024781-369ad500-f5f9-11ea-9828-ebd662e94383.png)
 
 ## Uruchomienie aplikacji
 
@@ -17,7 +21,6 @@ Po pobraniu należy przejść do folderu, gdzie znajdują się pobrane pliki (po
 *  HTML, CSS
 *  Vuetify - biblioteka UI
 *  Axios - biblioteka do zapytań HTTP
-
 
 ## Funkcjonalności
 
@@ -48,6 +51,8 @@ Tak samo jak stronie głównej dostępne są funkcjonalności: wyświetlenie naz
 po najechaniu myszką na kartę i wyświetlenie okna dialogowego z informacjami
 o danym Pokemonie po kliknięciu na kartę. Aby wrócić na stronę główną, należy 
 kliknąć przycisk ```Pokedex List```.
+
+![Zrzut ekranu 2020-09-13 o 7 42 48 PM](https://user-images.githubusercontent.com/63778196/93024793-4fa38600-f5f9-11ea-984f-c24bcfe58de6.png)
 
 ## Podsumowanie
 Do zdjęć Pokemonów na kartach wykorzystałam zdjęcia 
