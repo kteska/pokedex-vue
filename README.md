@@ -55,7 +55,7 @@ click the 'Pokedex List' button.
 
 ## Summary
 
-I used photos from [https://pokeres.bastionbot.org] (url) website. However, in the windows
+I used photos from https://pokeres.bastionbot.org website. However, in the windows
 the photo dialogs are taken from PokeAPI. The consequence of this may be their longer loading on the website.
 The application does not check if there is a photo at the address.
 
