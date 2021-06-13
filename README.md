@@ -1,4 +1,4 @@
-# Pokedex Vue
+# Pokedex - Vue
 
 ![Zrzut ekranu 2020-09-13 o 7 41 44 PM](https://user-images.githubusercontent.com/63778196/93024777-28e54f80-f5f9-11ea-836f-e037d444f43a.png)
 
